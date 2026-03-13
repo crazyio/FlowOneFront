@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php:*)",
+      "Bash(grep:*)",
+      "Bash(node:*)",
+      "Bash(curl:*)",
+      "Read(//c/Users/Dany Gal/Downloads/**)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "WebSearch",
+      "Bash(del three.r140.min.js three.r149.min.js FBXLoader.js FBXLoader.r149.js NURBSCurve.js NURBSUtils.js)",
+      "Bash(del check_columns.php add_business_columns.sql)",
+      "Bash(del nul)",
+      "Bash(powershell -command:*)",
+      "Bash(test:*)",
+      "Bash(mysql:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(powershell:)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
